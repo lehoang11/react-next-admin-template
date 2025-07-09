@@ -5,7 +5,7 @@ TEMU is the all-in-one solution that empowers you to build professional dashboar
 
 <br />
 <div align="center">
-<a href="https://temu-demo1.cenpha.com/en/dashboards/crm">Live Demo</a>
+<a href="https://temu-demo1.cenpha.com/">Live Demo</a>
 <span> · </span>
   <a href="https://www.themecozy.com/item/temu-reactjs-nextjs-admin-dashboard-template/686d3dfc5144d429c3a55b4d" target="_blank">Buy Now</a>
 <span>
